@@ -96,7 +96,7 @@ tooltip label{
 }
 
 #custom-weather {
-    border-radius: 20px 0px 0px 20px;
+    border-radius: 20px;
 }
 
 #temperature.critical {
@@ -107,12 +107,6 @@ tooltip label{
 #workspaces {
     padding-right: 0px;
     padding-left: 5px;
-}
-
-#custom-power_profile {
-    color: #a6e3a1;
-    border-left: 0px;
-    border-right: 0px;
 }
 
 #window {
